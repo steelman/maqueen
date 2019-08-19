@@ -1,0 +1,51 @@
+{
+    "hcsr04": {
+        "visual": {
+            "image": "parts/hcsr04.svg",
+            "width": 172,
+            "height": 80,
+            "pinDistance": 9.6,
+            "numberOfPins": 4,
+            "pinLocations": [
+                {
+                    "x": 71.660,
+                    "y": 5.117,
+                },
+                {
+                    "x": 81.220,
+                    "y": 5.117,
+                },
+                {
+                    "x": 90.780,
+                    "y": 5.117,
+                },
+                {
+                    "x": 100.340,
+                    "y": 5.117,
+                }
+            ],
+            "pinDefinitions": [
+                {
+                    "target": "threeVolt",
+                    "style": "solder",
+                    "orientation": "+Z",
+                },
+                {
+                    "target": "P0",
+                    "style": "solder",
+                    "orientation": "+Z",
+                },
+                {
+                    "target": "P1",
+                    "style": "solder",
+                    "orientation": "+Z",
+                },
+                {
+                    "target": "ground",
+                    "style": "solder",
+                    "orientation": "+Z",
+                }
+            ]
+        }
+    }
+}
