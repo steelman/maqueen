@@ -50,7 +50,12 @@
         "instantiations": [
             {
                 "kind": "function",
-                "fullyQualifiedName": "maqueen.sensor"
+                "fullyQualifiedName": "maqueen.sensor",
+                "argumentRoles": [
+                    {
+                        "pinInstantiationIdx": 0
+                    }
+                ]
 
             }
         ],

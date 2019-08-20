@@ -111,7 +111,7 @@ namespace maqueen{
     
     //% blockId=ultrasonic_sensor block="sensor unit|%unit"
     //% weight=95
-    //% parts=hcsr04
+    //% parts=hcsr04 trackArgs=0
     export function sensor(unit: PingUnit, maxCmDistance = 500): number {
         // send pulse
         pins.setPull(DigitalPin.P1, PinPullMode.PullNone);
