@@ -5,54 +5,55 @@
             "width": 172,
             "height": 80,
             "pinDistance": 9.6,
-            "numberOfPins": 4,
             "pinLocations": [
                 {
                     "x": 71.660,
-                    "y": 5.117,
+                    "y": 5.117
                 },
                 {
                     "x": 81.220,
-                    "y": 5.117,
+                    "y": 5.117
                 },
                 {
                     "x": 90.780,
-                    "y": 5.117,
+                    "y": 5.117
                 },
                 {
                     "x": 100.340,
-                    "y": 5.117,
+                    "y": 5.117
                 }
-            ],
-        }
+            ]
+        },
+        "numberOfPins": 4,
         "pinDefinitions": [
             {
                 "target": "threeVolt",
                 "style": "solder",
-                "orientation": "+Z",
+                "orientation": "+Z"
             },
             {
                 "target": "P0",
                 "style": "solder",
-                "orientation": "+Z",
+                "orientation": "+Z"
             },
             {
                 "target": "P1",
                 "style": "solder",
-                "orientation": "+Z",
+                "orientation": "+Z"
             },
             {
                 "target": "ground",
                 "style": "solder",
-                "orientation": "+Z",
+                "orientation": "+Z"
             }
         ],
         "instantiations": [
             {
                 "kind": "function",
-                "fullyQualifiedName": "maqueen.sensor",
+                "fullyQualifiedName": "maqueen.sensor"
 
-            },
+            }
+        ],
         "assembly": [
             {
                 "pinIndices": [ 0, 1, 2, 3 ]
