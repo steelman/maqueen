@@ -29,22 +29,22 @@
             {
                 "target": "threeVolt",
                 "style": "male",
-                "orientation": "-Y"
+                "orientation": "-Z"
             },
             {
                 "target": "P0",
                 "style": "male",
-                "orientation": "-Y"
+                "orientation": "-Z"
             },
             {
                 "target": "P1",
                 "style": "male",
-                "orientation": "-Y"
+                "orientation": "-Z"
             },
             {
                 "target": "ground",
                 "style": "male",
-                "orientation": "-Y"
+                "orientation": "-Z"
             }
         ],
         "instantiations": [
