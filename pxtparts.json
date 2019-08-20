@@ -49,14 +49,7 @@
         ],
         "instantiations": [
             {
-                "kind": "function",
-                "fullyQualifiedName": "maqueen.sensor",
-                "argumentRoles": [
-                    {
-                        "pinInstantiationIdx": 0
-                    }
-                ]
-
+                "kind": "singleton"
             }
         ],
         "assembly": [
