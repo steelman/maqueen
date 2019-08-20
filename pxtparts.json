@@ -28,23 +28,23 @@
         "pinDefinitions": [
             {
                 "target": "threeVolt",
-                "style": "solder",
-                "orientation": "+Z"
+                "style": "male",
+                "orientation": "-Y"
             },
             {
                 "target": "P0",
-                "style": "solder",
-                "orientation": "+Z"
+                "style": "male",
+                "orientation": "-Y"
             },
             {
                 "target": "P1",
-                "style": "solder",
-                "orientation": "+Z"
+                "style": "male",
+                "orientation": "-Y"
             },
             {
                 "target": "ground",
-                "style": "solder",
-                "orientation": "+Z"
+                "style": "male",
+                "orientation": "-Y"
             }
         ],
         "instantiations": [
