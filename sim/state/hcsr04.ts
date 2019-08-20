@@ -252,3 +252,9 @@ namespace pxsim.visuals {
         return { el: createHCSR04Element(), x: xy[0], y: xy[1], w: 172, h: 80};
     }
 }
+
+namespace pxsim.maqueen {
+    export function sensor(unit: PingUnit, maxCmDistance = 500): number {
+        return 50;
+    }
+}
