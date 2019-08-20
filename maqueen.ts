@@ -124,7 +124,7 @@ namespace maqueen{
         
         
 
-        // read pulse
+        // read pulse 
         let d = pins.pulseIn(DigitalPin.P2, PulseValue.High, maxCmDistance * 42);
         console.log("Distance: " + d/42);
         
