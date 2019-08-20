@@ -1,5 +1,6 @@
 {
     "hcsr04": {
+        "simulationBehavior": "hcsr04",
         "visual": {
             "image": "parts/hcsr04.svg",
             "width": 172,
